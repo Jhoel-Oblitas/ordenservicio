@@ -1,0 +1,9 @@
+C:\ORDENSERVICIO\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\ORDENSERVICIO\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\ORDENSERVICIO\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\ORDENSERVICIO\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\ORDENSERVICIO\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\ORDENSERVICIO\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\ORDENSERVICIO\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\ORDENSERVICIO\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\ORDENSERVICIO\CapaNegocio\obj\Debug\CapaNegocio.pdb

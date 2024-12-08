@@ -1,0 +1,16 @@
+C:\ORDENSERVICIO\SisOrdenServicio2024\bin\Debug\SisOrdenServicio2024.exe.config
+C:\ORDENSERVICIO\SisOrdenServicio2024\bin\Debug\SisOrdenServicio2024.exe
+C:\ORDENSERVICIO\SisOrdenServicio2024\bin\Debug\SisOrdenServicio2024.pdb
+C:\ORDENSERVICIO\SisOrdenServicio2024\bin\Debug\CapaPresentacion.dll
+C:\ORDENSERVICIO\SisOrdenServicio2024\bin\Debug\CapaNegocio.dll
+C:\ORDENSERVICIO\SisOrdenServicio2024\bin\Debug\CapaDatos.dll
+C:\ORDENSERVICIO\SisOrdenServicio2024\bin\Debug\CapaPresentacion.pdb
+C:\ORDENSERVICIO\SisOrdenServicio2024\bin\Debug\CapaNegocio.pdb
+C:\ORDENSERVICIO\SisOrdenServicio2024\bin\Debug\CapaDatos.pdb
+C:\ORDENSERVICIO\SisOrdenServicio2024\obj\Debug\SisOrdenServicio2024.csproj.AssemblyReference.cache
+C:\ORDENSERVICIO\SisOrdenServicio2024\obj\Debug\SisOrdenServicio2024.Properties.Resources.resources
+C:\ORDENSERVICIO\SisOrdenServicio2024\obj\Debug\SisOrdenServicio2024.csproj.GenerateResource.cache
+C:\ORDENSERVICIO\SisOrdenServicio2024\obj\Debug\SisOrdenServicio2024.csproj.CoreCompileInputs.cache
+C:\ORDENSERVICIO\SisOrdenServicio2024\obj\Debug\SisOrden.D007C518.Up2Date
+C:\ORDENSERVICIO\SisOrdenServicio2024\obj\Debug\SisOrdenServicio2024.exe
+C:\ORDENSERVICIO\SisOrdenServicio2024\obj\Debug\SisOrdenServicio2024.pdb

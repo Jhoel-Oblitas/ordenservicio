@@ -1,0 +1,14 @@
+C:\ORDENSERVICIO\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\ORDENSERVICIO\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\ORDENSERVICIO\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\ORDENSERVICIO\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\ORDENSERVICIO\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\ORDENSERVICIO\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\ORDENSERVICIO\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\ORDENSERVICIO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRoles.resources
+C:\ORDENSERVICIO\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\ORDENSERVICIO\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\ORDENSERVICIO\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\ORDENSERVICIO\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\ORDENSERVICIO\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\ORDENSERVICIO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
